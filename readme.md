@@ -7,5 +7,6 @@ O Projeto normal tem apenas 3 jogadores, e o botão **"derrota"** não faz nada 
 Eu adicionei ao botão derrota um calculo aonde quem perder 1 ele vai diminuir 1 na quantidade de pontos totais que os jogadores estiverem. Adicionei mais dois jogadores.
 
 # Link do Projeto normal
+https://codepen.io/thiagosilva2/pen/YzQLZvX
 
 # Link do meu projeto com mudanças
