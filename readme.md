@@ -10,3 +10,4 @@ Eu adicionei ao botão derrota um calculo aonde quem perder 1 ele vai diminuir 1
 https://codepen.io/thiagosilva2/pen/YzQLZvX
 
 # Link do meu projeto com mudanças
+https://thiagosilva2.github.io/Tabela-de-Classifica-o/
