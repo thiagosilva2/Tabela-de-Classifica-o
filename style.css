@@ -4,8 +4,8 @@
 
 body {
   font-family: "Reboto Mono", monospace;
- min-height: 400px; 
-  background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/tabela-classificacao-bg.png");
+  height: 100vh; 
+  background-image: url("./campeonato\ league\ of\ legends.jpg");
   background-color: #111;
   background-size: 100%; 
   background-position: center;
@@ -35,4 +35,8 @@ h1 {
 th, tr, td {
   border: solid 3px white;
   color: white;
+}
+
+button {
+border-radius: 8px;
 }
